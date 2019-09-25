@@ -5,4 +5,4 @@ hero_text: "<strong>We're Akaka</strong>, we work for brands. But most important
 title: Hero
 
 ---
-<:text="$page.frontmatter.hero_text" /> <WorksList />
+< :text="$page.frontmatter.hero_text" /> <WorksList />
